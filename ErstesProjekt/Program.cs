@@ -6,6 +6,8 @@
         {
             Console.WriteLine("Hello, World!");
             Console.WriteLine("Erste Änderung");
+            Console.WriteLine("Juhu!");
+            Console.WriteLine("1");
         }
     }
 }
